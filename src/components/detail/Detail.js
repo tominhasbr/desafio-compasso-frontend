@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Row, Col, Button, Table } from 'reactstrap';
-import BarraNavegacao from '../navbar/Navbar';
+import BarraNavegacao from '../navbar/navbar';
 import Api from '../../Api';
 import './Detail.scss';
 

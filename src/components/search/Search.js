@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Container, Form, FormGroup, Input, Label } from 'reactstrap';
-import BarraNavegacao from '../navbar/Navbar';
+import BarraNavegacao from '../navbar/navbar';
 import { withRouter } from 'react-router';
 import './Search.scss';
 
