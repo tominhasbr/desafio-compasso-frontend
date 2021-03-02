@@ -1,0 +1,26 @@
+.container-detail {
+    margin-top: 25px;
+    font-size: 15px;
+    width: 90%;
+    margin: 0 auto;
+    & .values {
+        margin-bottom: 10px;
+    }
+    & .div-rows {
+        margin-top: 15px;
+    }
+    & .title {
+        padding-top: 40px;
+        font-weight: 600;
+    }
+    & .title.justify {
+        text-align: center;
+    }
+    & .underline {
+        border-bottom: 1px solid;
+        color: #B0B0B0;
+    }
+    & .buttons {
+        padding-top: 15px;
+    }
+}
